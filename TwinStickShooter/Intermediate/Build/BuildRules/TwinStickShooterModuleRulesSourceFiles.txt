@@ -1,3 +1,4 @@
 D:\Github\Unreal-Engine-BP-Twin-Stick-Shooter\TwinStickShooter\Source\TwinStickShooter\TwinStickShooter.Build.cs
+D:\Github\Unreal-Engine-BP-Twin-Stick-Shooter\TwinStickShooter\Intermediate\Plugins\WindowsNoEditor\NativizedAssets\Source\NativizedAssets\NativizedAssets.Build.cs
 D:\Github\Unreal-Engine-BP-Twin-Stick-Shooter\TwinStickShooter\Source\TwinStickShooter.Target.cs
 D:\Github\Unreal-Engine-BP-Twin-Stick-Shooter\TwinStickShooter\Source\TwinStickShooterEditor.Target.cs

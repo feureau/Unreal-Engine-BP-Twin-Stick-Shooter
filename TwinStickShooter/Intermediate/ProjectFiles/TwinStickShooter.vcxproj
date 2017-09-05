@@ -164,7 +164,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{77C3DB59-DD15-4674-B0FF-5F47655AF021}</ProjectGuid>
+		<ProjectGuid>{7991783B-4FC9-4532-96B7-03282B3C4702}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>TwinStickShooter</RootNamespace>
        <PlatformToolset>v141</PlatformToolset>

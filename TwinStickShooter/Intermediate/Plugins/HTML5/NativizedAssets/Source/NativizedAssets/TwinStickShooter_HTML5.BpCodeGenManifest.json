@@ -1,0 +1,112 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/TwinStickShooter'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/UMG'",
+		"Package'/Script/ClothingSystemRuntime'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'",
+		"Package'/Script/ClothingSystemRuntimeInterface'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Blueprints/TwinStickGameMode_BP.TwinStickGameMode_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/TwinStickGameMode_BP.TwinStickGameMode_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/TwinStickGameMode_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/TwinStickGameMode_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/EnemyCharacter_BP.EnemyCharacter_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/EnemyCharacter_BP.EnemyCharacter_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/EnemyCharacter_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/EnemyCharacter_BP__pf2132744816.cpp"
+		},
+		"/Game/Animation/CharacterAnim_BP.CharacterAnim_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/Animation/CharacterAnim_BP.CharacterAnim_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/CharacterAnim_BP__pf1804850088.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/CharacterAnim_BP__pf1804850088.cpp"
+		},
+		"/Game/Blueprints/EnemyAIController_BP.EnemyAIController_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/EnemyAIController_BP.EnemyAIController_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/EnemyAIController_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/EnemyAIController_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/HeroCharacter_BP.HeroCharacter_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/HeroCharacter_BP.HeroCharacter_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/HeroCharacter_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/HeroCharacter_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/iDamageable_BP.iDamageable_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/iDamageable_BP.iDamageable_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/iDamageable_BP__pf2132744816.h",
+			"generatedCppPath": ""
+		},
+		"/Game/Blueprints/Weapon_BP.Weapon_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Weapon_BP.Weapon_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/Weapon_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/Weapon_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/Projectile_BP.Projectile_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Projectile_BP.Projectile_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/Projectile_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/Projectile_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/TwinStickHUDWIdget_BP.TwinStickHUDWIdget_BP_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Blueprints/TwinStickHUDWIdget_BP.TwinStickHUDWIdget_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/TwinStickHUDWIdget_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/TwinStickHUDWIdget_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/EnemySpawner_BP.EnemySpawner_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/EnemySpawner_BP.EnemySpawner_BP_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/EnemySpawner_BP__pf2132744816.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/EnemySpawner_BP__pf2132744816.cpp"
+		},
+		"/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C",
+			"generatedHeaderPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Public/BP_Sky_Sphere__pf1379775596.h",
+			"generatedCppPath": "D:\\Github\\Unreal-Engine-BP-Twin-Stick-Shooter\\TwinStickShooter\\Intermediate\\Plugins\\HTML5/NativizedAssets/Source/NativizedAssets/Private/BP_Sky_Sphere__pf1379775596.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "HTML5",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
